@@ -59,4 +59,4 @@ matrices y lógica de parqueadero. Asegúrate de seguir buenas prác4cas de dise
 encapsulamiento.
 
 
-![Administración de embarcaciones](https://i.ibb.co/fvJS6np/Embarcaciones.png)
+![Administración de embarcaciones](https://i.ibb.co/jRLJ4FY/Parqueadero.png)
