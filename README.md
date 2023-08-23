@@ -1,4 +1,4 @@
-# EJERCICIO WORKSHOP PROGRAMACION ORIENTADA A OBJECTOS
+# WORKSHOP PROGRAMACION ORIENTADA A OBJETOS
 Realizar el diagrama UML y programar en java el siguiente enunciado.
 La empresa MAKAI, se dedica al alquiler de embarcaciones y necesita un sistema para
 administrar las mismas.
